@@ -1,1 +1,1 @@
-# small_Bitcoin_Transfer_app
+# Library_for_Bitcoin_JS
